@@ -4,7 +4,7 @@
 
 model: gemini-1.5-flash
 
-json_mode: FALSE
+json_mode: TRUE
 
 temperature: 0.0
 
